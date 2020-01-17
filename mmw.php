@@ -1,5 +1,4 @@
-<?php echo 'HI, Ashok pull it';
+<?php 
 
-echo "working";
-echo "Next phase";
+echo "fresh";
 ?>
